@@ -16,7 +16,7 @@ O código compara as referências bibliográficas extraídas da planilha exporta
 - **Descrição**: Processa a planilha do Catálogo MB, removendo tags HTML, espaços extras e trechos indesejados (ex.: "Ebook"). O código também garante que os valores da coluna "ABNT" estejam padronizados para uso em comparações ou integrações com outras bases de dados.
 - **Uso**: Executar o script para padronizar a referência bibliográfica.
 
-### 3. `tratamento_catalogo.py`
+### 3. `match_catalogo_and_bibliografia.py`
 - **Descrição**: 
 Compara os valores da coluna "BIBLIOGRAFIA" da planilha do curso com os valores da coluna "ABNT" do Catálogo MB, por exemplo. Células com correspondências são destacadas em verde usando PatternFill do openpyxl, facilitando a identificação visual de dados relacionados.
 - **Uso**: Executar o script para identificar e destacar visualmente correspondências entre duas planilhas.
