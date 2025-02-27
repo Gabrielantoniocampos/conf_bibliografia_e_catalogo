@@ -1,6 +1,6 @@
-# Projeto de Tratamento e Destaque de Planilhas Excel
+# OBJETIVO
 
-Este projeto contém scripts em Python para tratamento e destaque de dados em planilhas Excel, utilizando a biblioteca `openpyxl`. Os scripts foram desenvolvidos para manipular arquivos Excel mantendo a formatação original e realizar operações como remoção de espaços em branco e destaque de células correspondentes.
+O objetivo deste projeto é automatizar o processo de conferência bibliográfica, atualmente realizado manualmente, o que consome um tempo significativo dos colaboradores. O sistema compara as referências bibliográficas extraídas da planilha exportada do SAG com o catálogo das bibliotecas digitais disponíveis, como Minha Biblioteca e ProQuest. Caso uma correspondência exata (match) seja identificada, a respectiva linha é automaticamente destacada em verde, indicando que a bibliografia está contemplada nas bases institucionais. Essa automação reduz o esforço manual, aumenta a eficiência e melhora a precisão na validação do acervo bibliográfico virtual.
 
 ## Scripts
 
