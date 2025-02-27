@@ -13,7 +13,7 @@ O código compara as referências bibliográficas extraídas da planilha exporta
 - **Uso**: Executar o script para limpar dados espaços em branco.
 
 ### 2. `tratamento_catalogo.py`
-- **Descrição**: Processa a planilha do Catálogo MB, removendo tags HTML (como <p>), espaços extras e trechos indesejados (ex.: "Ebook"). O código também garante que os valores da coluna "ABNT" estejam padronizados para uso em comparações ou integrações com outras bases de dados.
+- **Descrição**: Processa a planilha do Catálogo MB, removendo tags HTML (como '<p>'), espaços extras e trechos indesejados (ex.: "Ebook"). O código também garante que os valores da coluna "ABNT" estejam padronizados para uso em comparações ou integrações com outras bases de dados.
 - **Uso**: Executar o script para padronizar a referência bibliográfica.
 
 ### 3. `tratamento_catalogo.py`
