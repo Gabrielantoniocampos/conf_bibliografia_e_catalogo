@@ -26,10 +26,6 @@ Compara os valores da coluna "BIBLIOGRAFIA" da planilha do curso com os valores 
 - Python 3.x
 - Bibliotecas:
   - `openpyxl`
-  - `pandas` (apenas para o primeiro código, se necessário)
+  - `pandas` 
 
-## Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
