@@ -1,7 +1,5 @@
 # Inteligente para Verificação de Referências Bibliográficas
 
-## Objetivo
-
 O objetivo deste projeto é automatizar o processo de conferência bibliográfica, atualmente realizado manualmente, o que consome um tempo significativo dos colaboradores. 
 
 ## O que o código faz? 
